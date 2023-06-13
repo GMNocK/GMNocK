@@ -1,7 +1,7 @@
 ### and here is my stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatriaAPN&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaAPN&layout=compact&theme=monokai&langs_count=12"/><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GMNocK&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMNocK&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
 
 - 👋 Hi, I’m @GMNocK
